@@ -1,0 +1,13 @@
+﻿  KuryeTakip.cpp
+C:\Users\SumeyyeAydogan\source\repos\KuryeTakip\KuryeTakip\KuryeTakip.cpp(261,21): error C2065: 'uzunluk': bildirimi yapılmamış tanımlayıcı
+C:\Users\SumeyyeAydogan\source\repos\KuryeTakip\KuryeTakip\KuryeTakip.cpp(263,4): error C2065: 'uzunluk': bildirimi yapılmamış tanımlayıcı
+C:\Users\SumeyyeAydogan\source\repos\KuryeTakip\KuryeTakip\KuryeTakip.cpp(268,4): error C2065: 'uzunluk': bildirimi yapılmamış tanımlayıcı
+C:\Users\SumeyyeAydogan\source\repos\KuryeTakip\KuryeTakip\KuryeTakip.cpp(269,4): error C3872: '0xa0': bu karakter bir tanımlayıcıda kullanılamaz
+C:\Users\SumeyyeAydogan\source\repos\KuryeTakip\KuryeTakip\KuryeTakip.cpp(269,4): error C2065: 'sifre ': bildirimi yapılmamış tanımlayıcı
+C:\Users\SumeyyeAydogan\source\repos\KuryeTakip\KuryeTakip\KuryeTakip.cpp(800,27): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\SumeyyeAydogan\source\repos\KuryeTakip\KuryeTakip\KuryeTakip.cpp(801,39): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\SumeyyeAydogan\source\repos\KuryeTakip\KuryeTakip\KuryeTakip.cpp(802,39): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\SumeyyeAydogan\source\repos\KuryeTakip\KuryeTakip\KuryeTakip.cpp(803,28): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\SumeyyeAydogan\source\repos\KuryeTakip\KuryeTakip\KuryeTakip.cpp(839,27): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\SumeyyeAydogan\source\repos\KuryeTakip\KuryeTakip\KuryeTakip.cpp(840,39): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\SumeyyeAydogan\source\repos\KuryeTakip\KuryeTakip\KuryeTakip.cpp(841,39): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
